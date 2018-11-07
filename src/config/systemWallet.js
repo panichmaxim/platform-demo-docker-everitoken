@@ -1,0 +1,18 @@
+module.exports = {
+  ethereum: {
+    address: '0xFB897C789DcD53030729FcE3E6fc71EAE8A8183d',
+    privateKey: '0xA56543242C369428635518037FFA238461B6DC9E8AF046F0DE11ACEBED2B58CD'
+  },
+  fantom: {
+    address: '0xb362e02bffe84e26c5dfd8637c2ed537967ce565',
+    privateKey: '0x18b04286f808e267dbce580ea73217cfcb0f3a9b05a551f7e4c2859de24a35fc'
+  },
+  quark: {
+    address: '0xFB897C789DcD53030729FcE3E6fc71EAE8A8183dFBCdfCea',
+    privateKey: '0xA56543242C369428635518037FFA238461B6DC9E8AF046F0DE11ACEBED2B58CD'
+  },
+  everitoken: {
+    address: 'EVT58XBoRmVZ6oTmsY4BrRPe5vy1uMwZFYoUGHt1F8zdYHcxL8yn8',
+    privateKey: '5KgqkZgXVPFPPwivcsVePv9oUKN7rXrsYesx8Ce1CfwBXUy1DRZ'
+  }
+};

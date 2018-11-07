@@ -1,0 +1,6 @@
+.git
+.idea
+Dockerfile
+.DS_Store
+.gitignore
+/node_modules

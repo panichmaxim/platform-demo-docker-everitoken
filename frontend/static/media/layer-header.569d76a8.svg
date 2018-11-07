@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="684px" height="561px" viewBox="0 0 684 561" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-31.6%" y="-31.6%" width="163.2%" height="163.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-31.6%" y="-31.6%" width="163.2%" height="163.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-40.1%" y="-40.1%" width="180.2%" height="180.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="7.22098214" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-48.1%" y="-48.1%" width="196.2%" height="196.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="5.44921875" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="poly-landing-1-v2-copy" transform="translate(-261.000000, -38.000000)">
+            <g id="Group-18" transform="translate(278.000000, 51.000000)">
+                <circle id="Oval" fill="#9F57C7" cx="664" cy="29" r="3"></circle>
+                <circle id="Oval-Copy-3" fill="#9F57C7" opacity="0.5" cx="187" cy="66" r="3"></circle>
+                <circle id="Oval-Copy-15" fill="#9F57C7" opacity="0.5" cx="530" cy="252" r="3"></circle>
+                <circle id="Oval-Copy-16" fill="#9F57C7" opacity="0.5" cx="348" cy="511" r="3"></circle>
+                <circle id="Oval-Copy-17" fill="#9F57C7" opacity="0.5" cx="550" cy="401" r="3"></circle>
+                <circle id="Oval-Copy" fill="#6E5AC3" opacity="0.400000006" filter="url(#filter-1)" cx="422.5" cy="62.5" r="9.5"></circle>
+                <circle id="Oval-Copy-2" fill="#6E5AC3" opacity="0.400000006" filter="url(#filter-2)" cx="619.5" cy="433.5" r="9.5"></circle>
+                <circle id="Oval-Copy-14" fill="#6E5AC3" opacity="0.5" filter="url(#filter-3)" cx="27" cy="504" r="27"></circle>
+                <circle id="Oval-Copy-4" fill="#6E5AC3" opacity="0.400000006" filter="url(#filter-4)" cx="70" cy="17" r="17"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
