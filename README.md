@@ -20,4 +20,4 @@ Contracts deployed every minute.
 `src/service/deploy.js`: Simple deploy service
 
 `src/service/deployer/providers/everitoken/everitoken.js`: Everitoken provider
-
+`src/service/deployer/providers/ethereum/ethereum.js`: Ethereum provider
